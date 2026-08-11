@@ -1,0 +1,38 @@
+{
+  "source": "dummy-economic-api",
+  "country": "India",
+  "generated_on": "2026-08-10",
+  "indicators": [
+    {
+      "indicator": "repo_rate",
+      "value": 6.5,
+      "unit": "%"
+    },
+    {
+      "indicator": "inflation_rate",
+      "value": 5.4,
+      "unit": "%"
+    },
+    {
+      "indicator": "gdp_growth_rate",
+      "value": 7.2,
+      "unit": "%"
+    },
+    {
+      "indicator": "unemployment_rate",
+      "value": 7.1,
+      "unit": "%"
+    },
+    {
+      "indicator": "bank_credit_growth",
+      "value": 15.3,
+      "unit": "%"
+    }
+  ],
+  "region_default_rates": {
+    "North": 0.21,
+    "South": 0.15,
+    "East": 0.26,
+    "West": 0.18
+  }
+}

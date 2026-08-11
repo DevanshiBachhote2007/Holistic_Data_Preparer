@@ -1,0 +1,4002 @@
+[
+  {
+    "customer_id": "CUST00001",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-08-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00002",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2021-03-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00003",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-02-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00004",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-09-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00005",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-09-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00006",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00007",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00008",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00009",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00010",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-03-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00011",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-04-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00012",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-01-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00013",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-07-14",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00014",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-09-08",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00015",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-04-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00016",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-07-22",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00017",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-02-07",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00018",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-09-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00019",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-01-21",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00020",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-02-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00021",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-06-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00022",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-01-29",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00023",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-12-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00024",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-09-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00025",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-07-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00026",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-08-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00027",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-07-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00028",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-03-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00029",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-10-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00030",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-11-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00031",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-06-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00032",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-12-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00033",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-06-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00034",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-08-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00035",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-09-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00036",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-07-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00037",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-08-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00038",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-08-07",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00039",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-04-11",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00040",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-11-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00041",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-11-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00042",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-05-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00043",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-08-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00044",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-11-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00045",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-08-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00046",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-10-14",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00047",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-08-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00048",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2024-02-15",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00049",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-03-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00050",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-11-26",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00051",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-09-06",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00052",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2022-05-22",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00053",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-12-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00054",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-03-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00055",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-07-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00056",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-07-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00057",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-29",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00058",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-07-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00059",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-11-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00060",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-11-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00061",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-07-15",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00062",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00063",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-11-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00064",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-02-05",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00065",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-01-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00066",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-10-31",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00067",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00068",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-03-21",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00069",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-11-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00070",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2019-09-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00071",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-11-11",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00072",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-07-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00073",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00074",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-07-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00075",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-01-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00076",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-03-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00077",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-08-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00078",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-07-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00079",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-05-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00080",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": NaN,
+    "join_date": "2020-11-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00081",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-03-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00082",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-03-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00083",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-01-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00084",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-11-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00085",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-08-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00086",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-05-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00087",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00088",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-10-22",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00089",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2020-01-10",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00090",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-03-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00091",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2024-04-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00092",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2018-09-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00093",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-06-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00094",
+    "region": "East",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-09-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00095",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2023-01-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00096",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-09-01",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00097",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-11-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00098",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2018-09-28",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00099",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2021-01-23",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00100",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-05-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00101",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2020-06-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00102",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": NaN,
+    "join_date": "2018-10-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00103",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-05-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00104",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-04-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00105",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-05-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00106",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00107",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00108",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-05-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00109",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00110",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2024-02-06",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00111",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-01-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00112",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-04-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00113",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00114",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2024-12-06",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00115",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2019-12-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00116",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-12-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00117",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-09-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00118",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-02-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00119",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-09-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00120",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-11-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00121",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-05-10",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00122",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2020-08-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00123",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-01-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00124",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-02-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00125",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-08-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00126",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-07-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00127",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-06-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00128",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-07-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00129",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-05-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00130",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-07-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00131",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Unemployed",
+    "join_date": "2018-03-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00132",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-09-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00133",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00134",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-11-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00135",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-02-07",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00136",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00137",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-05-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00138",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-12-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00139",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-02-08",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00140",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-11-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00141",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-03-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00142",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-11-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00143",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-12-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00144",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-06-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00145",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-05-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00146",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-01-25",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00147",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-10-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00148",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-06-07",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00149",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-12-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00150",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-01-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00151",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-12-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00152",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-06-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00153",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-04-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00154",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-12-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00155",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2021-10-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00156",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00157",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-02-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00158",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": NaN,
+    "join_date": "2020-09-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00159",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-04-26",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00160",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-10-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00161",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2020-07-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00162",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2020-05-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00163",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-03-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00164",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00165",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": NaN,
+    "join_date": "2024-10-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00166",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00167",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-09-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00168",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-02-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00169",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-05-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00170",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2021-04-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00171",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-09-29",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00172",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-04-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00173",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-06-27",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00174",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-08-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00175",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-05-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00176",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2020-08-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00177",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2021-02-17",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00178",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-08-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00179",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-04-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00180",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-05-31",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00181",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-12-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00182",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-10-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00183",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00184",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-12-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00185",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-02-21",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00186",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-03-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00187",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-01-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00188",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-04-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00189",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-02-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00190",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-11-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00191",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2024-02-27",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00192",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-03-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00193",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-01-29",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00194",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-08-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00195",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-07-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00196",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00197",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-04-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00198",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-12-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00199",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2018-03-20",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00200",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-11-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00201",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2020-04-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00202",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-10-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00203",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00204",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2019-03-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00205",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00206",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-01-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00207",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-02-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00208",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-10-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00209",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-05-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00210",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2024-10-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00211",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-31",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00212",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-11-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00213",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-06-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00214",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-11-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00215",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-08-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00216",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-11-22",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00217",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-01-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00218",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00219",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-09-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00220",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-07-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00221",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-11-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00222",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2018-12-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00223",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-12-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00224",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-09",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00225",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00226",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-06-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00227",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-26",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00228",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2023-09-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00229",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-11-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00230",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-10-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00231",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00232",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-03-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00233",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-04-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00234",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00235",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-03-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00236",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-01-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00237",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00238",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-07-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00239",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00240",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-04-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00241",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2020-01-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00242",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-02-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00243",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00244",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-08-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00245",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2023-01-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00246",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-10-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00247",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-06",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00248",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-04-22",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00249",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00250",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Unemployed",
+    "join_date": "2023-12-27",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00251",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00252",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-03-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00253",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-06-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00254",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-09-10",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00255",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2023-06-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00256",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2021-12-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00257",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-04-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00258",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00259",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-10-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00260",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-02-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00261",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-03-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00262",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-01-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00263",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2018-03-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00264",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-02-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00265",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Unemployed",
+    "join_date": "2021-03-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00266",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00267",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-12-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00268",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2023-02-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00269",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2024-01-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00270",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-06-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00271",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2019-09-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00272",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2022-06-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00273",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-04-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00274",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-02-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00275",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-09-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00276",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-03-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00277",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-08-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00278",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2024-03-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00279",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00280",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-06-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00281",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-08-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00282",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-02-06",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00283",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00284",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2019-08-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00285",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-02-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00286",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-12-11",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00287",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-03-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00288",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-10-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00289",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-10-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00290",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-02-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00291",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-10-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00292",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-07-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00293",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-11-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00294",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00295",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-07-08",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00296",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-04-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00297",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-10-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00298",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2021-03-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00299",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-05-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00300",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-05-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00301",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-06-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00302",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2020-06-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00303",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-03-02",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00304",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-06-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00305",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-09-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00306",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-04-11",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00307",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00308",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-10-17",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00309",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-08-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00310",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-09-27",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00311",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-07-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00312",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-01-29",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00313",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2020-01-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00314",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-08-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00315",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-03-29",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00316",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-01-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00317",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-09-19",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00318",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-12-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00319",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-09-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00320",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-01-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00321",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-07-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00322",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-12-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00323",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-09-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00324",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-04-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00325",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-02-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00326",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-31",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00327",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-07-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00328",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-04-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00329",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00330",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-18",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00331",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-07-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00332",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-05-22",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00333",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2019-10-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00334",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-11-17",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00335",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-11-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00336",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2019-09-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00337",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-11-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00338",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-12-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00339",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-12-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00340",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2021-06-17",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00341",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-10-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00342",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-07-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00343",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2023-09-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00344",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-05-07",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00345",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-03-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00346",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-09-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00347",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-11-01",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00348",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-12-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00349",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-06-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00350",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-09-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00351",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2021-12-09",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00352",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-09-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00353",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-10-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00354",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-07-31",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00355",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-11-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00356",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-07-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00357",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-06-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00358",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-11-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00359",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2021-11-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00360",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-01-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00361",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-08-08",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00362",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-02-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00363",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-06-26",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00364",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2022-12-04",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00365",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-05-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00366",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-10-26",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00367",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-08-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00368",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00369",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-08-20",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00370",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00371",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-04-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00372",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-11-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00373",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-08-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00374",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2024-07-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00375",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00376",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-12-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00377",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-05-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00378",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2019-05-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00379",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-04-16",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00380",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-06-06",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00381",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-08-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00382",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2022-03-01",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00383",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00384",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-10-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00385",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-04-25",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00386",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2022-10-28",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00387",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-15",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00388",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-06-22",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00389",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00390",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-11-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00391",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-02-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00392",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2019-04-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00393",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-12-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00394",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-10-13",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00395",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-02-19",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00396",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-12-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00397",
+    "region": "East",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-07-21",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00398",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-07-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00399",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-12-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00400",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2021-11-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00401",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-01-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00402",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-08-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00403",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-11-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00404",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2020-04-07",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00405",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-06-08",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00406",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-10-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00407",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-09-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00408",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-05-22",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00409",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2023-04-06",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00410",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-04-30",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00411",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2018-04-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00412",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-09-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00413",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00414",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00415",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-03-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00416",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-08-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00417",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-08-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00418",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-05-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00419",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-06-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00420",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00421",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2022-06-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00422",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-07-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00423",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-04-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00424",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-04-11",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00425",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-09-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00426",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2018-01-16",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00427",
+    "region": "West",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2021-10-01",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00428",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-03-13",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00429",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-09-27",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00430",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-10-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00431",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-03-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00432",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-05-29",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00433",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-03-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00434",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-05-01",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00435",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-11-03",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00436",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2020-08-31",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00437",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-05-23",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00438",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": NaN,
+    "join_date": "2021-01-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00439",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2020-06-04",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00440",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-10-05",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00441",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-06-11",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00442",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-02-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00443",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2024-11-30",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00444",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-07-14",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00445",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-04-30",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00446",
+    "region": "East",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-04-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00447",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-05-03",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00448",
+    "region": "East",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2023-10-27",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00449",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-03-17",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00450",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-04-07",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00451",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-09-04",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00452",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-08-10",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00453",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2022-07-18",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00454",
+    "region": "West",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2020-07-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00455",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-01-06",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00456",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-11-12",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00457",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-05-07",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00458",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-07-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00459",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2018-04-09",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00460",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-06-10",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00461",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-02-20",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00462",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-03-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00463",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2022-08-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00464",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-02-12",
+    "gender": NaN
+  },
+  {
+    "customer_id": "CUST00465",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2019-01-31",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00466",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-02-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00467",
+    "region": "North",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-01-01",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00468",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Unemployed",
+    "join_date": "2022-03-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00469",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2019-11-14",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00470",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2022-04-06",
+    "gender": "Other"
+  },
+  {
+    "customer_id": "CUST00471",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-01-15",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00472",
+    "region": "West",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2024-08-12",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00473",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-05-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00474",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-01-05",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00475",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-03-28",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00476",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2023-03-24",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00477",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2021-11-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00478",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-05-27",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00479",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2018-06-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00480",
+    "region": "North",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-03-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00481",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2020-09-26",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00482",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-06-01",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00483",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-03-21",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00484",
+    "region": "East",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-05-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00485",
+    "region": "East",
+    "education_level": "Post-Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2022-04-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00486",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2023-09-23",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00487",
+    "region": "North",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2019-05-19",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00488",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": NaN,
+    "join_date": "2020-04-22",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00489",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2018-12-17",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00490",
+    "region": "South",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2023-09-02",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00491",
+    "region": "West",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-07-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00492",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Salaried",
+    "join_date": "2019-08-21",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00493",
+    "region": "East",
+    "education_level": "Graduate",
+    "employment_type": "Unemployed",
+    "join_date": "2020-12-02",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00494",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Self-Employed",
+    "join_date": "2024-11-18",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00495",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Salaried",
+    "join_date": "2018-02-09",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00496",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2024-06-08",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00497",
+    "region": "South",
+    "education_level": "Primary",
+    "employment_type": "Self-Employed",
+    "join_date": "2018-06-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00498",
+    "region": "South",
+    "education_level": "Post-Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2020-09-25",
+    "gender": "Male"
+  },
+  {
+    "customer_id": "CUST00499",
+    "region": "South",
+    "education_level": "Graduate",
+    "employment_type": "Salaried",
+    "join_date": "2022-01-24",
+    "gender": "Female"
+  },
+  {
+    "customer_id": "CUST00500",
+    "region": "North",
+    "education_level": "Secondary",
+    "employment_type": "Self-Employed",
+    "join_date": "2021-05-01",
+    "gender": "Male"
+  }
+]
