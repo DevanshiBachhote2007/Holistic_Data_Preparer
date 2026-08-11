@@ -15,7 +15,9 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 [![ML Ready](https://img.shields.io/badge/ML%20Ready-Yes-brightgreen?style=for-the-badge)](#)
 <p align="center"> <a href="https://docs.google.com/document/d/1y_fcseclgfjqMBJJnW_Tf91OyUjkWULgdAqYUNsk2eg/edit?tab=t.0#heading=h.pl9v4byqdmga" target="_blank"> <img src="https://img.shields.io/badge/Question%20Docs-Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Question Docs" /> </a> <a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/blob/main/Holistic_Data_Preparer.ipynb" target="_blank"> <img src="https://img.shields.io/badge/Code%20Notebook-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Code Notebook" /> </a>  <a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/blob/main/Holistic_Data_Preparer_Theory%20(1).pdf" target="_blank"> <img src="https://img.shields.io/badge/Theory%20Notes-PDF-34A853?style=for-the-badge&logo=googledocs&logoColor=white" alt="Theory PDF" /> </a>
-</a> <a href="https://drive.google.com/file/d/1MVdxpumdDZOU22rUMUZIKZtV8CZGmlEP/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Explanation%20Video-MP4-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Explanation Video" /> </a> </p>
+</a> <a href="https://drive.google.com/file/d/1MVdxpumdDZOU22rUMUZIKZtV8CZGmlEP/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Explanation%20Video-MP4-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Explanation Video" /> </a> <a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/tree/main/data">
+  <img src="https://img.shields.io/badge/📊_Final_Dataset-CSV/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Final Dataset"/>
+</a></p>
 
 ---
 
@@ -149,24 +151,6 @@ jupyter notebook Holistic_Data_Preparer.ipynb
 ```
 
 > 💡 **Tip:** Keep the `data/` folder next to the `.ipynb` file so all file paths work.
-
----
-
-## 🔗 Quick Links
-
-<div align="center">
-
-<a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/blob/main/Holistic_Data_Preparer.ipynb">
-  <img src="https://img.shields.io/badge/📓_Open_Notebook-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Open Notebook"/>
-</a>
-<a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/blob/main/Holistic_Data_Preparer_Theory.docx">
-  <img src="https://img.shields.io/badge/📚_Theory_Document-DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Theory Document"/>
-</a>
-<a href="https://github.com/DevanshiBachhote2007/Holistic_Data_Preparer/tree/main/data">
-  <img src="https://img.shields.io/badge/📊_Final_Dataset-CSV/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Final Dataset"/>
-</a>
-
-</div>
 
 ---
 
